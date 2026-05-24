@@ -51,8 +51,7 @@ LSTM-based predictive model for hazardous gas detection using Physics-Informed M
 
 ##  GitHub Stats
 
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sikemiiii&show_icons=true&theme=tokyonight&hide_border=true)
-
+![](https://komarev.com/ghpvc/?username=Sikemiiii&color=blue&style=flat)
 ---
 
 ## 📫\ Let's connect
