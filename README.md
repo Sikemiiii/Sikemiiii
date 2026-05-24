@@ -21,7 +21,7 @@ I build products at the intersection of technology and real human problems — f
 | Product Owner — FoodEase Bot | Fusion Intelligence Technologies | Mar 2026 – Present |
 | Product Associate — Pure Fitness Africa | Fusion Intelligence Technologies | Oct 2025 – Feb 2026 |
 | Co-founder & Operations Lead | Diverse Labs | Apr 2025 – Present |
-| Campus Lead | Cowrywise | Oct 2024 – Present |
+| Campus Lead | Cowrywise | Oct 2024 – March 2026 |
 | Campus Lead | Cleva | Apr 2025 – Present |
 
 ---
